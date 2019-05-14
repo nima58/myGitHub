@@ -1,1 +1,2 @@
 # myGitHub
+#adding some texts
